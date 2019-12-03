@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Hello World Erweiterung 3"
+=======
+"Hello World Erweiterung 2"
+>>>>>>> develop
